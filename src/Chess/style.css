@@ -1,0 +1,7 @@
+#theBoard:nth-last-child(2n+1){
+    -fx-background-color: #ab3535;
+}
+
+.list-cell {
+    -fx-background-color: red;
+}
